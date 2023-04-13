@@ -1,1 +1,1 @@
-# MachineLearning_Bumchan
+# MachineLearning_Study
